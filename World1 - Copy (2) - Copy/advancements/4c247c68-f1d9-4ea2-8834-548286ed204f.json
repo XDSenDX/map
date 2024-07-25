@@ -2166,5 +2166,77 @@
     },
     "done": true
   },
+  "evenmoreinstruments:recipes/koto": {
+    "criteria": {
+      "has_item": "2024-07-25 10:04:04 +0700"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-07-25 11:17:37 +0700"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_helmet": {
+    "criteria": {
+      "has_leaves": "2024-07-25 11:17:37 +0700"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/flowering_azalea_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-07-25 11:17:38 +0700"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/dark_oak_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-07-25 11:17:43 +0700"
+    },
+    "done": true
+  },
+  "evenmoreinstruments:recipes/keyboard_stand": {
+    "criteria": {
+      "has_item": "2024-07-25 10:29:18 +0700"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_leggings": {
+    "criteria": {
+      "has_leaves": "2024-07-25 11:17:37 +0700"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/jungle_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-07-25 11:17:42 +0700"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/spruce_leaves": {
+    "criteria": {
+      "has_copper_block": "2024-07-25 11:17:40 +0700"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_chestplate": {
+    "criteria": {
+      "has_leaves": "2024-07-25 11:17:37 +0700"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/decorations/cobblestone_from_rocks": {
+    "criteria": {
+      "has_rocks": "2024-07-25 11:16:35 +0700"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/combat/leaf_boots": {
+    "criteria": {
+      "has_leaves": "2024-07-25 11:17:37 +0700"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
